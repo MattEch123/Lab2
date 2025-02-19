@@ -1,0 +1,41 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Lab\Lab2\Lab2\Lab2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Lab\Lab2\Lab2\Lab2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Lab\Lab2\Lab2\Lab2\Debug\Lab2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab2.map</FILE>
+  <FILE>Lab2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Lab\Lab2\Lab2\Lab2\main.asm</FILE><LINE>27</LINE></SETUP>
+  <INIT_TMR0><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Lab\Lab2\Lab2\Lab2\main.asm</FILE><LINE>246</LINE></INIT_TMR0>
+  <LOOP><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Lab\Lab2\Lab2\Lab2\main.asm</FILE><LINE>122</LINE></LOOP>
+  <SALTAR_CONTADOR><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Lab\Lab2\Lab2\Lab2\main.asm</FILE><LINE>139</LINE></SALTAR_CONTADOR>
+  <DELAY><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Lab\Lab2\Lab2\Lab2\main.asm</FILE><LINE>254</LINE></DELAY>
+  <SALTAR_DISPLAY><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Lab\Lab2\Lab2\Lab2\main.asm</FILE><LINE>158</LINE></SALTAR_DISPLAY>
+  <SUMARL><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Lab\Lab2\Lab2\Lab2\main.asm</FILE><LINE>178</LINE></SUMARL>
+  <SUMAR1><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Lab\Lab2\Lab2\Lab2\main.asm</FILE><LINE>210</LINE></SUMAR1>
+  <RESTAR1><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Lab\Lab2\Lab2\Lab2\main.asm</FILE><LINE>229</LINE></RESTAR1>
+  <OVERFLOWL><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Lab\Lab2\Lab2\Lab2\main.asm</FILE><LINE>192</LINE></OVERFLOWL>
+  <OVER_OVERFLOW><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Lab\Lab2\Lab2\Lab2\main.asm</FILE><LINE>202</LINE></OVER_OVERFLOW>
+  <OVERFLOW1><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Lab\Lab2\Lab2\Lab2\main.asm</FILE><LINE>219</LINE></OVERFLOW1>
+  <UNDERFLOW1><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Lab\Lab2\Lab2\Lab2\main.asm</FILE><LINE>238</LINE></UNDERFLOW1>
+  <SUBDELAY1><FILE>C:\Users\admin\Documents\Uni\Semestre 5\Programacion de Micros\Lab\Lab2\Lab2\Lab2\main.asm</FILE><LINE>256</LINE></SUBDELAY1>
+ </LABELS>
+</ASSEMBLER_INFO>
